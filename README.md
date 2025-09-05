@@ -33,16 +33,30 @@ It provides users with the latest and upcoming movies in a simple, clean, and us
 ###  Home Screen  
 <img width="379" height="832" alt="Image" src="https://github.com/user-attachments/assets/380a016c-70e5-4f57-a537-cb8e85e17286" />
 
-###  Movie List  
+###  Login Screen  
 <img width="386" height="822" alt="Image" src="https://github.com/user-attachments/assets/49c1604a-0d28-4960-801a-b85f614ffdb0" />
 
-###  Movie Details  
+###  Dashboard section
  <img width="380" height="827" alt="Image" src="https://github.com/user-attachments/assets/66733f32-0395-4214-933d-42e1bfb20357" />
 
-###  Favorites Section  
+###  Detail Screen
 <img width="369" height="825" alt="Image" src="https://github.com/user-attachments/assets/88e90f4e-d643-434f-8554-a7f79155f7ed" />
 
+
 ---
+
+##  API Used  
+The app uses **[MoviesAPI.ir](https://moviesapi.ir/)** – a free REST API for movie data.  
+
+Example requests:  
+```http
+GET https://moviesapi.ir/api/v1/movies?page=1
+GET https://moviesapi.ir/api/v1/movies?page=3
+
+
+
+---
+
 
 ##  Installation & Setup
 1. Clone this repository  
