@@ -27,16 +27,6 @@ It provides users with the latest and upcoming movies in a simple, clean, and us
 
 ---
 
-##  API Used  
-The app uses **[MoviesAPI.ir](https://moviesapi.ir/)** – a free REST API for movie data.  
-
-Example requests:  
-```http
-GET https://moviesapi.ir/api/v1/movies?page=1
-GET https://moviesapi.ir/api/v1/movies?page=3
-
-
----
 
 ##  Screenshots  
 
