@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Movies App</string>
+    <string name="fab_add_movie">Add Movie</string>
+
+</resources>
